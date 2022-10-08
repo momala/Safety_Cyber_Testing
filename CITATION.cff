@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository please cite it as below"
+authors:
+  - family-names: Malayjerdi
+    given-names: Mohsen
+    orcid: https://orcid.org/0000-0001-6976-2095
+- family-names: Roberts
+    given-names: Andrew
+    orcid: https://orcid.org/0000-0002-0907-9267
+- family-names: Maennel
+    given-names: Olaf
+- family-names: Malayjerdi
+    given-names: Ehsan
+
+
+title: "Combined Safety and Cybersecurity Testing Methodology for Autonomous Driving Algorithms"
+version: 1.0.0
+
+date-released: 2022-10-08
