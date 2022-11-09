@@ -1,0 +1,4 @@
+<launch>
+    <node name="fake_point_pub" type="staticFP.py" pkg="cyber_security" />
+
+</launch>
