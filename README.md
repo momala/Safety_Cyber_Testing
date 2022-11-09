@@ -5,7 +5,7 @@ This page includes the Ros Package and the carla scenario runner file used in th
 Combined Safety and Cybersecurity Testing Methodology for Autonomous Driving Algorithms" in ACM Computer Science in Cars Symposium (CSCS '22), December 8, 2022, Ingolstadt, Germany
 
 DOI: https://doi.org/10.1145/3568160.3570235.
-
+You can also find one of the experiment video [HERE](https://youtu.be/8sgfpLxYtFY)
 ## Ros Cyber_security Package:
 This package includes two python scripts, one for publishing the spoof points (staticFP.py) and one for enabling the attack with desired parameters (publish_attack.py). Finally, it publish a "/points_fake" PointCloud2 topic which should be concatenated with your target LiDAR sensor.
 
